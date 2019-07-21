@@ -36,7 +36,7 @@ export default function ProfileCard(props) {
               <FontAwesome name="envelope" />
             </a>
             {facebook
-              ? <a className="btn btn-secondary m-1" role="button" href={facebook} target="_blank"><FontAwesome name="facebook-square" /></a>
+              ? <a className="btn btn-secondary m-1" role="button" href={facebook} target="_blank" rel="noopener noreferrer"><FontAwesome name="facebook-square" /></a>
               : ''}
           </Col>
         </Row>

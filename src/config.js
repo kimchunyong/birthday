@@ -10,7 +10,7 @@ export default {
     googleMapAPIKey: 'AIzaSyDM7_ueFLjxqHM5y3Jyw0rxE-RcD9BH4E0',
     comment: {
       livere: {
-        enable: true, // if false, not rendering livere comment component
+        enable: false, // if false, not rendering livere comment component
         service: 'city',
         uid: 'MTAyMC80Mzc5MS8yMDMzMA',
       },
@@ -23,10 +23,10 @@ export default {
   title: '1st BirthDay', // recomanded English
   wedding: {
     place: {
-      name: '예쁜 돌잔치룸 8F 디아룸',
+      name: '리베라컨벤션 8F 디아룸',
       address: '경남 창원시 성산구 중앙대로 100번길 9(상남동 78-4)',
-      latitude: 37.51990006878117,
-      longitude: 126.94020220536675,
+      latitude: 35.223388,
+      longitude: 128.680506,
     },
     at: '2019-08-10 18:00',
   },
