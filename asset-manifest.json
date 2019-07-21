@@ -1,13 +1,24 @@
 {
-  "main.css": "static/css/main.cafad63d.css",
-  "main.css.map": "static/css/main.cafad63d.css.map",
-  "main.js": "static/js/main.7814ea31.js",
-  "main.js.map": "static/js/main.7814ea31.js.map",
-  "static\\media\\1.png": "static/media/1.0679bd0c.png",
-  "static\\media\\2.jpg": "static/media/2.982514d0.jpg",
-  "static\\media\\3.jpg": "static/media/3.1eeda915.jpg",
-  "static\\media\\4.jpg": "static/media/4.eb020a20.jpg",
-  "static\\media\\bridal.jpeg": "static/media/bridal.0914d8b9.jpeg",
-  "static\\media\\groom.jpeg": "static/media/groom.ce7f640a.jpeg",
-  "static\\media\\header.jpg": "static/media/header.11088f82.jpg"
+  "files": {
+    "main.css": "/BirthDay/static/css/main.73da3350.chunk.css",
+    "main.js": "/BirthDay/static/js/main.dc116bfb.chunk.js",
+    "main.js.map": "/BirthDay/static/js/main.dc116bfb.chunk.js.map",
+    "runtime~main.js": "/BirthDay/static/js/runtime~main.198181fa.js",
+    "runtime~main.js.map": "/BirthDay/static/js/runtime~main.198181fa.js.map",
+    "static/css/2.9a9ecee5.chunk.css": "/BirthDay/static/css/2.9a9ecee5.chunk.css",
+    "static/js/2.73404453.chunk.js": "/BirthDay/static/js/2.73404453.chunk.js",
+    "static/js/2.73404453.chunk.js.map": "/BirthDay/static/js/2.73404453.chunk.js.map",
+    "index.html": "/BirthDay/index.html",
+    "precache-manifest.c73c24438e81f5e7dfcb6a2ac1a2c9ee.js": "/BirthDay/precache-manifest.c73c24438e81f5e7dfcb6a2ac1a2c9ee.js",
+    "service-worker.js": "/BirthDay/service-worker.js",
+    "static/css/2.9a9ecee5.chunk.css.map": "/BirthDay/static/css/2.9a9ecee5.chunk.css.map",
+    "static/css/main.73da3350.chunk.css.map": "/BirthDay/static/css/main.73da3350.chunk.css.map",
+    "static/media/1.png": "/BirthDay/static/media/1.7abb327f.png",
+    "static/media/2.jpg": "/BirthDay/static/media/2.eb020a20.jpg",
+    "static/media/3.jpg": "/BirthDay/static/media/3.982514d0.jpg",
+    "static/media/4.jpg": "/BirthDay/static/media/4.17118a78.jpg",
+    "static/media/bridal.jpeg": "/BirthDay/static/media/bridal.0914d8b9.jpeg",
+    "static/media/groom.jpeg": "/BirthDay/static/media/groom.ce7f640a.jpeg",
+    "static/media/header.jpg": "/BirthDay/static/media/header.11088f82.jpg"
+  }
 }
