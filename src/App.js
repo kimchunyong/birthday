@@ -12,6 +12,7 @@ export default function App() {
     <Container className="app">
       <Screen.Header config={config} />
       <Screen.Profile config={config} />
+      <Screen.Write />
       <Screen.Gallery config={config} />
       <Screen.Place config={config} />
       <Screen.Comment config={config} />
